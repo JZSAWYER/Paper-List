@@ -48,7 +48,7 @@
 ### Reasoning
 
 - [2023/06] **On the Power of Foundation Models.** *Yang Yuan. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2211.16327)]
-  - This work evaluates the multitask, multilingual and multimodal aspects of ChatGPT using 21 data sets covering 8 different common NLP application tasks
+  - ..
 
 
 ### Theory
