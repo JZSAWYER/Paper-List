@@ -20,10 +20,14 @@
 - [2023/01] **Locating and Editing Factual Associations in GPT.** *Kevin Meng et al. NeurIPS 2022.* [[paper](https://doi.org/10.48550/arXiv.2202.05262)]
   - ..
 
+- [2023/08] **Mass-Editing Memory in a Transformer.** *Kevin Meng et al. ICLR 2023.* [[paper](https://doi.org/10.48550/arXiv.2210.07229)]
+  - ..
+
 #### Meta-Learning
 
 - [2023/03] **Can We Edit Factual Knowledge by In-Context Learning?** *Eric Mitchell et al. ICLR 2023.* [[paper](https://doi.org/10.48550/arXiv.2305.12740)]
   - ..
+
 
 #### Summary
 
@@ -35,27 +39,34 @@
 
 ### Safety
 
-- [2023/07] **FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios** *I-Chun Chern et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2307.13528)]
+- [2023/07] **FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios.** *I-Chun Chern et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2307.13528)]
   - ..
 
+- [2023/05] **A Pretrainer’s Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity.** *Shayne Longpre et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2305.19187)]
+  - ..
 
 ### Opinion Analysis
 
 - [2023/08] **Whose Opinions Do Language Models Reflect?** *Shibani Santurkar et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2305.13172)]
   - ..
 
-
 ### Reasoning
 
-- [2023/06] **On the Power of Foundation Models.** *Yang Yuan. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2211.16327)]
-  - ..
+- [2023/08] **Cumulative Reasoning with Large Language Models** *Yifan Zhang, Jingqin Yang, Yang Yuan, Andrew Chi-Chih Yao arXiv.* [[paper](https://doi.org/10.48550/arXiv.2308.04371)]
+  -
 
+### Emergent Ability
+
+- [2023/07] **Do Emergent Abilities Exist in Quantized Large Language Models: An Empirical Study.** *Peiyu Liu et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2307.08072)]
+  - ..
 
 ### Theory
 
 - [2023/06] **On the Power of Foundation Models.** *Yang Yuan. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2211.16327)]
   - ..
 
+- [2023/03] **Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers.** *Damai Dai et al. ACL 2023.* [[paper](https://doi.org/10.48550/arXiv.2212.10559)]
+  - ..
 
 
 ## 2. Machine Learning
@@ -78,12 +89,31 @@
 - [2020/02] **Neural Tangent Kernel: Convergence and Generalization in Neural Networks.** *Arthur Jacot et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.1806.07572)] 
   - ..
 
+- [2020/06] **Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains.** *Matthew Tancik, Pratul P. Srinivasan and Ben Mildenhall et al. NeurIPS 2020.* [[paper](https://doi.org/10.48550/arXiv.2006.10739)] 
+  - ..
+
+- [2019/08] **Adversarial Examples Are Not Bugs, They Are Features.** *Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras and Logan Engstrom et al. NeurIPS 2019.* [[paper](https://doi.org/10.48550/arXiv.1905.02175)] 
+  - ..
+
+- [2022/06] **The Dimpled Manifold Model of Adversarial Examples in Machine Learning.** *Adi Shamir et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2106.10151)] 
+  - ..
+
 ### Interpretablity
 
 - [2021/09] **Transformer Feed-Forward Layers Are Key-Value Memories.** *Mor Geva et al. EMNLP 2021.* [[paper](https://doi.org/10.48550/arXiv.2012.14913)]
   - ..
 
-## 3.Others
+## 3. Pattern Recognition
+
+### Computer Vision
+
+- [2021/09] **An Unsupervised Deep Learning Approach for Real-World Image Denoising.** *Dihan Zheng et al. ICLR 2021.* [[paper](https://openreview.net/forum?id=tIjRAiFmU3y)]
+  - ..
+
+- [2022/09] **Learn from Unpaired Data for Image Restoration: A Variational Bayes Approach.** *Dihan Zheng et al. TPAMI 2022.* [[paper](https://doi.org/10.48550/arXiv.2012.14913)]
+  - ..
+
+## 4. Others
 
 - [2023/03] **GPT-4 Technical Report.** *OpenAI. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2303.08774)]
   - Full analysis of GPT-4.
