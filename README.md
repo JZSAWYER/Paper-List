@@ -1,8 +1,36 @@
 # Paper-List
 
+## Table of Contents
+
+1. [Large Language Models](#large-language-models)
+    - [Factual Editing](#factual-editing)
+        - [Summary](#summary)
+        - [Memory-based](#memory-based)
+        - [Locate-Then-Edit](#locate-then-edit)
+        - [Meta-Learning](#meta-learning)
+    - [Safety](#safety)
+    - [Opinion Analysis](#opinion-analysis)
+    - [Reasoning](#reasoning)
+    - [Emergent Ability](#emergent-ability)
+    - [Theory](#theory)
+2. [Machine Learning](#machine-learning)
+    - [Theory](#theory-1)
+    - [Interpretability](#interpretability)
+3. [Pattern Recognition](#pattern-recognition)
+    - [Computer Vision](#computer-vision)
+4. [Others](#others)
+
 ## 1. Large Language Models
 
 ### Factual Editing
+
+#### Summary
+
+- [2023/05] **Editing Large Language Models: Problems, Methods, and Opportunities.** *Yunzhi Yao, Peng Wang et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2305.13172)]
+  - ..
+
+- [2023/08] **EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models.** *Peng Wang et al. EMNLP 2023.* [[paper](https://doi.org/10.48550/arXiv.2308.07269)]
+  - ..
 
 #### Memory-based
 
@@ -26,15 +54,6 @@
 #### Meta-Learning
 
 - [2023/03] **Can We Edit Factual Knowledge by In-Context Learning?** *Eric Mitchell et al. ICLR 2023.* [[paper](https://doi.org/10.48550/arXiv.2305.12740)]
-  - ..
-
-
-#### Summary
-
-- [2023/05] **Editing Large Language Models: Problems, Methods, and Opportunities.** *Yunzhi Yao, Peng Wang et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2305.13172)]
-  - ..
-
-- [2023/08] **EasyEdit: An Easy-to-use Knowledge Editing Framework for Large Language Models.** *Peng Wang et al. EMNLP 2023.* [[paper](https://doi.org/10.48550/arXiv.2308.07269)]
   - ..
 
 ### Safety
