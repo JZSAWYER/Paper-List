@@ -130,10 +130,13 @@
   - The first paper on diffusion models.
 
 - [2020/12] **Denoising Diffusion Probabilistic Models.** *Jonathan Ho et al. NeurIPS 2020.* [[paper](https://doi.org/10.48550/arXiv.2006.11239)] 
-  - Imporved DDPM, with FID score of 12.3.
+  - DDPM, with FID score of 3.17 on CIFAR10.
+
+- [2021/02] **Improved Denoising Diffusion Probabilistic Models.** *Alex Nichol and Prafulla Dhariwal. ICML 2021.* [[paper](https://doi.org/10.48550/arXiv.2102.096729)] 
+  - Improved DDPM, with FID score of 2.94 on CIFAR10, 12.3 on ImageNet 256*256.
 
 - [2021/06] **Diffusion Models Beat GANs on Image Synthesis.** *Prafulla Dhariwal and Alex Nichol. NeurIPS 2021.* [[paper](https://doi.org/10.48550/arXiv.2105.05233)] 
-  - OpenAI introduced ADM-G, with FID score of 4.59, huge improvement.
+  - OpenAI introduced ADM-G, with FID score of 4.59 on ImageNet 256*256, huge improvement.
 
 - [2021/02] **Score-based Generative Modeling through Stochastic Differential Equations.** *Yang Song et al. 	ICLR 2021 (Oral).* [[paper](https://doi.org/10.48550/arXiv.2011.13456)]  
   - ..
