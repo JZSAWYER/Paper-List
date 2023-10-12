@@ -117,6 +117,19 @@
 - [2022/06] **The Dimpled Manifold Model of Adversarial Examples in Machine Learning.** *Adi Shamir et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2106.10151)] 
   - ..
 
+### Generative models
+
+#### Diffusion Models
+
+- [2023/10] **Diffusion Models: A Comprehensive Survey of Methods and Applications.** *Ling Yang and Zhilong Zhang et al. ACM Computing Surveys, 2022.* [[paper](https://doi.org/10.48550/arXiv.2209.00796)] 
+  -  ..
+  
+- [2015/11] **Deep unsupervised learning using nonequilibrium thermodynamics.** *Sohl-Dickstein et al. ICML 2015.* [[paper](https://doi.org/10.48550/arXiv.1503.03585)] 
+  - The first paper on diffusion models.
+
+- [2015/11] **Denoising Diffusion Probabilistic Models.** *Jonathan Ho et al. NeurIPS 2020.* [[paper](https://doi.org/10.48550/arXiv.2006.11239)] 
+  - ..
+
 ### Interpretablity
 
 - [2021/09] **Transformer Feed-Forward Layers Are Key-Value Memories.** *Mor Geva et al. EMNLP 2021.* [[paper](https://doi.org/10.48550/arXiv.2012.14913)]
