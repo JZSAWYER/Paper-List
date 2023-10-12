@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Large Language Models](#large-language-models)
+- [1. Large Language Models](#1-large-language-models)
     - [Factual Editing](#factual-editing)
         - [Summary](#summary)
         - [Memory-based](#memory-based)
@@ -13,12 +13,14 @@
     - [Reasoning](#reasoning)
     - [Emergent Ability](#emergent-ability)
     - [Theory](#theory)
-2. [Machine Learning](#machine-learning)
+- [2. Machine Learning](#2-machine-learning)
     - [Theory](#theory-1)
+    - [Generative Models](#generative-models)
+        - [Diffusion Models](#diffusion-models)
     - [Interpretability](#interpretability)
-3. [Pattern Recognition](#pattern-recognition)
+- [3. Pattern Recognition](#3-pattern-recognition)
     - [Computer Vision](#computer-vision)
-4. [Others](#others)
+- [4. Others](#4-others)
 
 ## 1. Large Language Models
 
@@ -130,7 +132,7 @@
 - [2015/11] **Denoising Diffusion Probabilistic Models.** *Jonathan Ho et al. NeurIPS 2020.* [[paper](https://doi.org/10.48550/arXiv.2006.11239)] 
   - ..
 
-### Interpretablity
+### Interpretability
 
 - [2021/09] **Transformer Feed-Forward Layers Are Key-Value Memories.** *Mor Geva et al. EMNLP 2021.* [[paper](https://doi.org/10.48550/arXiv.2012.14913)]
   - ..
