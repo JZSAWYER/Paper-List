@@ -129,8 +129,15 @@
 - [2015/11] **Deep unsupervised learning using nonequilibrium thermodynamics.** *Sohl-Dickstein et al. ICML 2015.* [[paper](https://doi.org/10.48550/arXiv.1503.03585)] 
   - The first paper on diffusion models.
 
-- [2015/11] **Denoising Diffusion Probabilistic Models.** *Jonathan Ho et al. NeurIPS 2020.* [[paper](https://doi.org/10.48550/arXiv.2006.11239)] 
+- [2020/12] **Denoising Diffusion Probabilistic Models.** *Jonathan Ho et al. NeurIPS 2020.* [[paper](https://doi.org/10.48550/arXiv.2006.11239)] 
+  - Imporved DDPM, with FID score of 12.3.
+
+- [2021/06] **Diffusion Models Beat GANs on Image Synthesis.** *Prafulla Dhariwal and Alex Nichol. NeurIPS 2021.* [[paper](https://doi.org/10.48550/arXiv.2105.05233)] 
+  - OpenAI introduced ADM-G, with FID score of 4.59, huge improvement.
+
+- [2021/02] **Score-based Generative Modeling through Stochastic Differential Equations.** *Yang Song et al. 	ICLR 2021 (Oral).* [[paper](https://doi.org/10.48550/arXiv.2011.13456)]  
   - ..
+
 
 ### Interpretability
 
