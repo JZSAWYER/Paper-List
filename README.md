@@ -8,6 +8,7 @@
         - [Memory-based](#memory-based)
         - [Locate-Then-Edit](#locate-then-edit)
         - [Meta-Learning](#meta-learning)
+    - [Multimodel Editing](#multimodel-editing)
     - [Safety](#safety)
     - [Opinion Analysis](#opinion-analysis)
     - [Reasoning](#reasoning)
@@ -57,6 +58,11 @@
 
 - [2023/03] **Can We Edit Factual Knowledge by In-Context Learning?** *Eric Mitchell et al. ICLR 2023.* [[paper](https://doi.org/10.48550/arXiv.2305.12740)]
   - ..
+
+### Multimodel Editing
+
+- [2023/10] **Can We Edit Multimodal Large Language Models?** *Siyuan Cheng, Bozhong Tian et al. EMNLP 2023.* [[paper](https://doi.org/10.48550/arXiv.2310.08475)]
+  - Benchmark for MMLLM Editing.
 
 ### Safety
 
@@ -138,7 +144,7 @@
 - [2021/06] **Diffusion Models Beat GANs on Image Synthesis.** *Prafulla Dhariwal and Alex Nichol. NeurIPS 2021.* [[paper](https://doi.org/10.48550/arXiv.2105.05233)] 
   - OpenAI introduced ADM-G, with FID score of 4.59 on ImageNet 256*256, huge improvement.
 
-- [2021/02] **Score-based Generative Modeling through Stochastic Differential Equations.** *Yang Song et al. 	ICLR 2021 (Oral).* [[paper](https://doi.org/10.48550/arXiv.2011.13456)]  
+- [2021/02] **Score-based Generative Modeling through Stochastic Differential Equations.** *Yang Song et al.  ICLR 2021 (Oral).* [[paper](https://doi.org/10.48550/arXiv.2011.13456)]  
   - ..
 
 
