@@ -82,6 +82,11 @@
 - [2023/08] **Cumulative Reasoning with Large Language Models** *Yifan Zhang, Jingqin Yang, Yang Yuan, Andrew Chi-Chih Yao arXiv.* [[paper](https://doi.org/10.48550/arXiv.2308.04371)]
   - ..
 
+- [2023/01] **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** *Jason Wei et al. NeurIPS 2022.* [[paper](https://doi.org/10.48550/arXiv.2201.11903)]
+  - CoT
+
+
+
 ### Emergent Ability
 
 - [2023/07] **Do Emergent Abilities Exist in Quantized Large Language Models: An Empirical Study.** *Peiyu Liu et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2307.08072)]
