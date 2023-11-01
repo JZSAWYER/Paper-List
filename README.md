@@ -8,7 +8,10 @@
         - [Memory-based](#memory-based)
         - [Locate-Then-Edit](#locate-then-edit)
         - [Meta-Learning](#meta-learning)
+        - [Sequential Editing](#sequential-editing)
     - [Multimodel Editing](#multimodel-editing)
+        - [Summary](#summary-1)
+        - [Benchmark](#benchmark)
     - [Safety](#safety)
     - [Opinion Analysis](#opinion-analysis)
     - [Reasoning](#reasoning)
@@ -59,10 +62,31 @@
 - [2023/03] **Can We Edit Factual Knowledge by In-Context Learning?** *Eric Mitchell et al. ICLR 2023.* [[paper](https://doi.org/10.48550/arXiv.2305.12740)]
   - ..
 
+#### Sequential Editing
+
+- [2023/01] **Transformer-Patcher: One Mistake worth One Neuron.** *Zeyu Huang et al. ICLR 2023.* [[paper](https://doi.org/10.48550/arXiv.2301.09785)]
+  - T-Patcher
+
+- [2023/10] **Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adaptors.** *Thomas Hartvigsen et al. NeurIPS 2023.* [[paper](https://doi.org/10.48550/arXiv.2211.11031)]
+  - GRACE
+
 ### Multimodel Editing
 
+#### Summary
+
 - [2023/10] **Can We Edit Multimodal Large Language Models?** *Siyuan Cheng, Bozhong Tian et al. EMNLP 2023.* [[paper](https://doi.org/10.48550/arXiv.2310.08475)]
-  - Benchmark for MMLLM Editing.
+  - Benchmark for MLLM Editing.
+
+#### Benchmark
+
+- [2023/10] **MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models.** *Deyao Zhu and Jun Chen et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2304.10592)]
+  - Target Model in MLLM Editing.
+
+- [2023/06] **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models.** *Junnan Li et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2301.12597)]
+  - Target Model in MLLM Editing.
+
+- [2016/10] **VQA: Visual Question Answering.** *Aishwarya Agrawal et al. ICCV 2015.* [[paper](https://doi.org/10.48550/arXiv.1505.00468)]
+  - VQA Dataset.
 
 ### Safety
 
@@ -152,6 +176,8 @@
 - [2021/02] **Score-based Generative Modeling through Stochastic Differential Equations.** *Yang Song et al.  ICLR 2021 (Oral).* [[paper](https://doi.org/10.48550/arXiv.2011.13456)]  
   - ..
 
+- [2022/04] **High-Resolution Image Synthesis with Latent Diffusion Models.** *Robin Rombach and Andreas Blattmann et al.  CVPR 2022 (Oral).* [[paper](https://doi.org/10.48550/arXiv.2112.10752)]  
+  - Stable Diffusion.
 
 ### Interpretability
 
