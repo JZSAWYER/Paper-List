@@ -10,7 +10,7 @@
         - [Meta-Learning](#meta-learning)
         - [Sequential Editing](#sequential-editing)
     - [Multimodel Editing](#multimodel-editing)
-        - [Summary](#summary-1)
+        - [MLLMs](#mllms)
         - [Benchmark](#benchmark)
     - [Safety](#safety)
     - [Opinion Analysis](#opinion-analysis)
@@ -72,18 +72,18 @@
 
 ### Multimodel Editing
 
-#### Summary
-
-- [2023/10] **Can We Edit Multimodal Large Language Models?** *Siyuan Cheng, Bozhong Tian et al. EMNLP 2023.* [[paper](https://doi.org/10.48550/arXiv.2310.08475)]
-  - Benchmark for MLLM Editing.
-
-#### Benchmark
+#### MLLMs
 
 - [2023/10] **MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models.** *Deyao Zhu and Jun Chen et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2304.10592)]
   - Target Model in MLLM Editing.
 
 - [2023/06] **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models.** *Junnan Li et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2301.12597)]
   - Target Model in MLLM Editing.
+
+#### Benchmark
+
+- [2023/10] **Can We Edit Multimodal Large Language Models?** *Siyuan Cheng, Bozhong Tian et al. EMNLP 2023.* [[paper](https://doi.org/10.48550/arXiv.2310.08475)]
+  - Benchmark for MLLM Editing.
 
 - [2016/10] **VQA: Visual Question Answering.** *Aishwarya Agrawal et al. ICCV 2015.* [[paper](https://doi.org/10.48550/arXiv.1505.00468)]
   - VQA Dataset.
