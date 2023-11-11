@@ -17,6 +17,7 @@
     - [Reasoning](#reasoning)
     - [Emergent Ability](#emergent-ability)
     - [Theory](#theory)
+    - [Survey](#survey)
 - [2. Machine Learning](#2-machine-learning)
     - [Theory](#theory-1)
     - [Generative Models](#generative-models)
@@ -129,6 +130,10 @@
 - [2023/03] **Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers.** *Damai Dai et al. ACL 2023.* [[paper](https://doi.org/10.48550/arXiv.2212.10559)]
   - ..
 
+### Survey
+
+- [2023/09] **A Survey of Large Language Models.** *Zhao et al. Arxiv.* [[paper](https://doi.org/10.48550/arXiv.2303.18223)]
+  - a fundamental survey with chinese version as well.
 
 ## 2. Machine Learning
 
