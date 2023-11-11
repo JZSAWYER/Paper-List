@@ -105,7 +105,8 @@
 
 ### Alignment
 
-
+- [2023/10] **Fundamental Limitations of Alignment in Large Language Models.** *Wolf et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2304.11082)]
+  - Any behavior exhibited by a large language model can be triggered by prompts, with the probability of such behavior increasing with the length of the prompt. **Complete alignment of LLMs is impossible.**
 
 ### Reasoning
 
