@@ -13,7 +13,7 @@
         - [MLLMs](#mllms)
         - [Benchmark](#benchmark)
     - [Safety](#safety)
-    - [Opinion Analysis](#opinion-analysis)
+    - [Alignment](#alignment)
     - [Reasoning](#reasoning)
     - [Emergent Ability](#emergent-ability)
     - [Theory](#theory)
@@ -96,10 +96,15 @@
 - [2023/05] **A Pretrainer’s Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity.** *Shayne Longpre et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2305.19187)]
   - ..
 
-### Opinion Analysis
-
 - [2023/08] **Whose Opinions Do Language Models Reflect?** *Shibani Santurkar et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2305.13172)]
   - ..
+
+- [2023/07] **GPT detectors are biased against non-native English writers** *Weixin Liang and Mert Yuksekgonul and Yining Mao and Eric Wu and James Zou. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2304.02819)]
+  - GPT detectors misclassify non-native English writing samples as AI-generated while not for native writing samples. Prompting GPT to generate more linguistically diverse versions of the non-native samples removes this bias.
+
+### Alignment
+
+
 
 ### Reasoning
 
